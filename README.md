@@ -66,8 +66,6 @@ If you are doing this lab as part of an instructor led workshop (virtual or face
 
 1.  Access the lab environment from your web browser.
 
-    <https://ui.na.cloud.event.techzone.ibm.com/index.php?env_name=2673&env_type=folder&env_acss=YWRtaW46YWRtaW4>
-
 2.  Click on the **bastion** machine.
 
 ![A screenshot of a computer Description automatically generated](16dc3f9e10679ef5fe3f1e112396d6f8.png)
